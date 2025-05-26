@@ -1,2 +1,13 @@
-# LinkedIn-Job-Skill-Demand-Analyzer
-A data-driven tool designed to analyze job listings on LinkedIn, identifying the most sought-after skills across various roles and industries. By leveraging real-time data, it helps professionals understand current market demands, enabling them to tailor their skill development and stay competitive.
+# LinkedIn Job Skill Demand Analyzer
+
+A tool that scrapes job listings from LinkedIn, analyzes skill demand using NLP, and generates visual reports including word clouds and charts.
+
+## Features
+- Automated LinkedIn login and scraping
+- Skill extraction and frequency analysis
+- Word cloud and bar chart generation
+- Final report export in PDF format
+
+## Tech Stack
+- Python, Selenium, BeautifulSoup
+- pandas, matplotlib, wordcloud, FPDF
