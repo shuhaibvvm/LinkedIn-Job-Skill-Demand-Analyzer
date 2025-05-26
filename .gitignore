@@ -1,1 +1,2 @@
-./config/credential.json
+# Ignore credentials
+config/credential.json
